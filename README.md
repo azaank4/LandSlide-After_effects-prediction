@@ -75,6 +75,3 @@ The dataset contains environmental data from Kerala, India from 2020-2024, organ
 ├── use_model.py             # CLI prediction script
 └── streamlit.py             # Web interface
 ```
-
-## License
-MIT License
