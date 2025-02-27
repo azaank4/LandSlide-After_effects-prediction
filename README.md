@@ -9,7 +9,7 @@ This project implements a machine learning model to predict landslide risks and 
 - Provides both CLI and web interface for predictions
 
 ## Requirements
-- Python 3.8+
+- Python 3.9.9 (recommended)
 - TensorFlow 2.10+
 - Streamlit
 - Pandas, NumPy, Scikit-learn, Imbalanced-learn
